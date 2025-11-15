@@ -147,7 +147,7 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 2nd Runner-Up — CodeCrack ’25: Numerical Analysis Contest
+  - title: 2nd Runner-Up — CodeCrack ’25  Numerical Analysis Contest
     # url: https://neurips.cc/
     date: '2022-12-01'
     awarder: AUST EEE Society
