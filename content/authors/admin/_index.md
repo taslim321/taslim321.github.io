@@ -56,8 +56,8 @@ education:
   - area: Electrical and Electronic Engineering
     institution: Ahsanullah University of Science and Technology
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2023-04-01
+    date_end: 2027-05-30
   #   summary: |
   #     Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
   #   button:
@@ -72,7 +72,7 @@ education:
   #     GPA: 4.0/4.0
 
   #     Specialized in machine learning and robotics.
-  - area: HSC(science)
+  - area: HSC(Science)
     institution: Bandarban Cantonment Public School and College
     icon: ""
     date_start: 2019-06-01
@@ -84,7 +84,7 @@ education:
 
 work:
   - position: Assistant Head of It and Innovation
-    company_name: AUST PIC
+    company_name:  AUST Programming and Informatics Club
     # company_url: 'https://ai.meta.com/'
     icon: ''
     date_start: 2025-08-10
@@ -94,7 +94,7 @@ work:
 
       Served as Assistant Head of IT & Innovation for Job Fair 2025, jointly organized by AUST Programming and Informatics Club and Excellence Bangladesh, powered by SheSTEM. Formed the new event committee panel, coordinated with Excellence Bangladesh, and brought 50+ national and multinational companies on board. Arranged a “Hands-on Workshop on AWS, CNCF, and GitHub” and organized walk-in interviews for on-campus recruitment. Led tech and innovation efforts, ensuring smooth execution despite weather challenges.
   - position: Deputy Co-ordinator
-    company_name: AUST PIC
+    company_name:  AUST Programming and Informatics Club
     # company_url: 'https://openai.com/'
     icon: ''
     date_start: 2023-10-01
@@ -114,7 +114,7 @@ skills:
       - name: Quartus
         description: ''
         percent: 100
-        icon: quartus
+        # icon: quartus
       - name: Cloud Computing (AWS/GCP)
         description: ''
         percent: 85
@@ -136,38 +136,43 @@ skills:
         percent: 70
         icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Spanish
+#     percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
+  - title: 2nd Runner-Up — CodeCrack ’25: Numerical Analysis Contest
+    # url: https://neurips.cc/
     date: '2022-12-01'
-    awarder: NeurIPS
+    awarder: AUST EEE Society
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded 2nd Runner-Up position in the Numerical Analysis Contest under CodeCrack ’25 – The Ultimate Coding Contest, organized by the Department of EEE, AUST. The contest featured competitive problem-solving challenges using programming and mathematical analysis skills.
+      The award was presented in the Prize Giving Ceremony graced by:
+
+      --Prof. Dr. Md. Ashraful Hoque,Honorable Vice Chancellor, AUST (Chief Guest)
+      --Prof. Dr. Sharmin Reza Chowdhury, Honorable Treasurer, AUST (Special Guest)
+      --Prof. Dr. Bobby BaruaRespected Head of Department, EEE, AUST (Chairman of the Session)
+  # - title: AI Innovation Grant
+  #   url: https://www.nsf.gov/
+  #   date: '2021-06-15'
+  #   awarder: National Science Foundation
+  #   icon: hero/currency-dollar
+  #   summary: |
+  #     $500,000 grant for research in ethical AI development.
+  # - title: Outstanding PhD Thesis
+  #   url: https://www.stanford.edu/
+  #   date: '2019-06-30'
+  #   awarder: Stanford University
+  #   icon: hero/academic-cap
+  #   summary: |
+  #     Recognized for contributions to scaling laws in deep learning.
 ---
 
 Enthusiastic and dedicated Electrical and Electronic Engineering student at Ahsanullah University of Science and Technology.
