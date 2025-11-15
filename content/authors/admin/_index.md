@@ -48,14 +48,13 @@ profiles:
   #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Antenna design
+  - RF circuit simulation
+  - Metamaterials and terahertz devices
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Electrical and Electronic Engineering
+    institution: Ahsanullah University of Science and Technology
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
