@@ -110,7 +110,7 @@ skills:
       - name: MATLAB
         description: ''
         percent: 95
-        icon: matlab_icon
+        icon: assets/media/icons/matlab_icon.svg
       - name: Quartus
         description: ''
         percent: 100
