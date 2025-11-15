@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate EEE Student
+role: Assistant Head of IT and Innovation
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -72,33 +72,35 @@ education:
   #     GPA: 4.0/4.0
 
   #     Specialized in machine learning and robotics.
-  # - area: BS Computer Science
-  #   institution: MIT
-  #   icon: ""
-  #   date_start: 2009-09-01
-  #   date_end: 2013-05-31
-  #   summary: |
-  #     GPA: 3.9/4.0
+  - area: HSC(science)
+    institution: Bandarban Cantonment Public School and College
+    icon: ""
+    date_start: 2019-06-01
+    date_end: 2021-12-01
+    summary: |
+      GPA: 5.0/5.0
 
   #     Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Assistant Head of It and Innovation
+    company_name: AUST PIC
+    # company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-08-10
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      This position is entirely voluntary at the AUST Programming and Informatics Club , held since August,10, 2025, during my undergraduate studies in the EEE department at AUST, Dhaka, Bangladesh.
+
+      Served as Assistant Head of IT & Innovation for Job Fair 2025, jointly organized by AUST Programming and Informatics Club and Excellence Bangladesh, powered by SheSTEM. Formed the new event committee panel, coordinated with Excellence Bangladesh, and brought 50+ national and multinational companies on board. Arranged a “Hands-on Workshop on AWS, CNCF, and GitHub” and organized walk-in interviews for on-campus recruitment. Led tech and innovation efforts, ensuring smooth execution despite weather challenges.
+  - position: Deputy Co-ordinator
+    company_name: AUST PIC
+    # company_url: 'https://openai.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2023-10-01
+    date_end: 2025-08-09
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      This is a fully voluntary role at the AUST Programming and Informatics Club, undertaken since December 26, 2023, while pursuing my undergraduate studies in the EEE department at AUST, Dhaka, Bangladesh.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
