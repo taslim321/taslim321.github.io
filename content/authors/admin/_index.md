@@ -107,14 +107,14 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: MATLAB
         description: ''
         percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+        icon: matlab_icon
+      - name: Quartus
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: quartus
       - name: Cloud Computing (AWS/GCP)
         description: ''
         percent: 85
