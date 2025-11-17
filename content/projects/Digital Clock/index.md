@@ -1,13 +1,13 @@
 ---
 title: Design and Simulation of an Adjustable Digital Clock
-date: 2023-10-26
+date: 2025-10-26
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://drive.google.com/drive/folders/1suf7zBxXLAzQCWpM0lYf0cTOiYtEIyZs?usp=drive_link
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Digital Clock
+  - DLD
+  - Design and Simulation
 ---
 
 This project presents the design and simulation of an adjustable digital clock, developed as part of the learning outcomes from the Digital Electronics I course and lab. The project combines both theoretical knowledge and practical skills acquired in the DLD course to design a functional digital timekeeping system capable of displaying and adjusting hours, minutes, and seconds.
