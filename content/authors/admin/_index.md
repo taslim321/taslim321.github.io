@@ -159,13 +159,13 @@ awards:
       --Prof. Dr. Md. Ashraful Hoque,Honorable Vice Chancellor, AUST (Chief Guest)
       --Prof. Dr. Sharmin Reza Chowdhury, Honorable Treasurer, AUST (Special Guest)
       --Prof. Dr. Bobby BaruaRespected Head of Department, EEE, AUST (Chairman of the Session)
-  # - title: AI Innovation Grant
-  #   url: https://www.nsf.gov/
-  #   date: '2021-06-15'
-  #   awarder: National Science Foundation
-  #   icon: hero/currency-dollar
-  #   summary: |
-  #     $500,000 grant for research in ethical AI development.
+ # - title: Fourier Vision: An interactive Matlab  App for Fourier series signal analysis and reconstruction
+    # # url: https://www.nsf.gov/
+    # date: '2021-06-15'
+    # awarder: National Science Foundation
+    # icon: hero/currency-dollar
+    # summary: |
+    #   $500,000 grant for research in ethical AI development.
   # - title: Outstanding PhD Thesis
   #   url: https://www.stanford.edu/
   #   date: '2019-06-30'
