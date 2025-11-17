@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'taslimamin907@gmail.com'
+    url: 'https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtMpckTRNfKhgwhRbdbLSSBMPVfWfvKqMkXRxtCtLTVxQGLgHLJjRQBhxdTjvDmpKrCfqfKG'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/lim_min907
@@ -115,32 +115,32 @@ skills:
         description: ''
         percent: 100
         # icon: quartus
-      - name: Cloud Computing (AWS/GCP)
+      - name: AutoCad
         description: ''
         percent: 85
-        icon: cloud
-  - name: Hobbies
+        #icon: cloud
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Microsoft Word 
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        # icon: person-simple-walk
+      - name: Microsoft Excel
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        # icon: cpu-chip
+      - name:  Microsoft Powerpoint 
         description: ''
         percent: 70
-        icon: book-open
+        # icon: book-open
 
-# languages:
-#   - name: English
-#     percent: 100
-#   - name: Spanish
-#     percent: 50
+languages:
+  - name: Bangla
+    percent: 100
+  - name: English
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -148,8 +148,8 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 2nd Runner-Up — CodeCrack ’25  Numerical Analysis Contest
-    # url: https://neurips.cc/
-    date: '2022-12-01'
+    url: https://drive.google.com/file/d/1zhoTVbgQk_s8wMuwiFaQseOF3Evwsghn/view?usp=drive_link
+    date: '2025-10-08'
     awarder: AUST EEE Society
     icon: hero/trophy
     summary: |
