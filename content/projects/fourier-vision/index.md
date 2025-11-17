@@ -10,36 +10,32 @@ tags:
   - Project
 ---
 
-    <!-- Name of the Project : Fourier Vision: an interactive matlab
-    app for fourier series signal analysis and reconstruction -->
-    Purpose/Objectives
-    The purpose of this project is to design and implement a MATLAB-based
-    application that helps students and professionals in Electrical and Electronic
-    Engineering visualize and understand Fourier Series analysis.
-
-    The objectives are:
-    1. To create an interactive app where users can choose a periodic signal (square,
-    sawtooth, triangle).
-    2. To compute and display Fourier coefficients for the chosen signal.
-    3. To reconstruct the signal using a finite number of harmonics and visualize the
-    approximation accuracy.
-    4. To calculate and present the error between the original and reconstructed
-    signals.
-
-    This app serves as an educational tool, enabling students to intuitively grasp the
-    concept of Fourier decomposition and signal reconstruction.
-
-    Equipment/Software
-    - Software: MATLAB App Designer (R2018).
-    - Numerical Technique Used: Fourier Series approximation (integration by
-    numerical trapezoidal rule).
-    - Functions Used:
-    - square(), sawtooth() → for generating periodic signals.
-    - trapz() → for numerical integration (Fourier coefficients, Gibbs phenomenon).
-    - uitable → to display coefficients.
-    - UI components (dropdown, slider, numeric edit field) in App Designer.
-    - plot() → for signal visualization.
-    Results and Discussion
+    
+Purpose/Objectives
+The purpose of this project is to design and implement a MATLAB-based
+application that helps students and professionals in Electrical and Electronic
+Engineering visualize and understand Fourier Series analysis.
+The objectives are:
+1. To create an interactive app where users can choose a periodic signal (square,
+sawtooth, triangle).
+2. To compute and display Fourier coefficients for the chosen signal.
+3. To reconstruct the signal using a finite number of harmonics and visualize the
+approximation accuracy.
+4. To calculate and present the error between the original and reconstructed
+signals.
+This app serves as an educational tool, enabling students to intuitively grasp the
+concept of Fourier decomposition and signal reconstruction.
+Equipment/Software
+- Software: MATLAB App Designer (R2018).
+- Numerical Technique Used: Fourier Series approximation (integration by
+numerical trapezoidal rule).
+- Functions Used:
+- square(), sawtooth() → for generating periodic signals.
+- trapz() → for numerical integration (Fourier coefficients, Gibbs phenomenon).
+- uitable → to display coefficients.
+- UI components (dropdown, slider, numeric edit field) in App Designer.
+- plot() → for signal visualization.
+Results and Discussion
 Input Data:
 - Signal Type: Square, Sawtooth, Triangle.
 - Frequency (Hz): User-defined.
