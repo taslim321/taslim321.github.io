@@ -11,7 +11,8 @@ tags:
 ---
 
     
-Purpose/Objectives
+Purpose/Objectives:
+
 The purpose of this project is to design and implement a MATLAB-based
 application that helps students and professionals in Electrical and Electronic
 Engineering visualize and understand Fourier Series analysis.
@@ -25,7 +26,8 @@ approximation accuracy.
 signals.
 This app serves as an educational tool, enabling students to intuitively grasp the
 concept of Fourier decomposition and signal reconstruction.
-Equipment/Software
+
+Equipment/Software:
 - Software: MATLAB App Designer (R2018).
 - Numerical Technique Used: Fourier Series approximation (integration by
 numerical trapezoidal rule).
@@ -35,7 +37,9 @@ numerical trapezoidal rule).
 - uitable → to display coefficients.
 - UI components (dropdown, slider, numeric edit field) in App Designer.
 - plot() → for signal visualization.
+
 Results and Discussion
+
 Input Data:
 - Signal Type: Square, Sawtooth, Triangle.
 - Frequency (Hz): User-defined.
@@ -53,7 +57,8 @@ especially for discontinuous signals like the square wave.
 - The app effectively demonstrates Gibbs phenomenon near discontinuities.
 - Error decreases as harmonics increase, validating the convergence of Fourier
 series.
-Conclusion
+
+Conclusion:
 This project successfully designed a MATLAB-based interactive Fourier Series App,
 which provides users with both theoretical and visual understanding of Fourier
 decomposition. It can be used for an effective educational tool for signal analysis
