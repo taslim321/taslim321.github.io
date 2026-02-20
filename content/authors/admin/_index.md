@@ -27,8 +27,8 @@ role: Assistant Head of PR and Social Media
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: AUST
-    url: https://aust.edu/
+  - name: AUSTPIC
+    url: https://austpic.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
