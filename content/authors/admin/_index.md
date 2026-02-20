@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Head of IT and Innovation
+role: Assistant Head of PR and Social Media
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
