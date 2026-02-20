@@ -48,9 +48,9 @@ profiles:
   #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Antenna design
-  - RF circuit simulation
-  - Metamaterials and terahertz devices
+  - VLSI Technology 
+  - CMOS 
+  - Semiconductor  devices
 
 education:
   - area: Electrical and Electronic Engineering
@@ -83,7 +83,7 @@ education:
   #     Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Assistant Head of It and Innovation
+  - position: Assistant Head of PR and Social Media
     company_name:  AUST Programming and Informatics Club
     # company_url: 'https://ai.meta.com/'
     icon: ''
